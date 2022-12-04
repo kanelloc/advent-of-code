@@ -16,5 +16,5 @@ npm install
 
 ### To see the results
 ```bash
-npm run dev
+npm run start
 ```
