@@ -2,6 +2,7 @@ import day01 from "./src/day01";
 import day02 from "./src/day02";
 import day03 from "./src/day03";
 import day05 from "./src/day05";
+import day06 from "./src/day06";
 
 console.log("DAY 01 - part 1", day01.part1());
 console.log("DAY 01 - part 2", day01.part2());
@@ -17,3 +18,7 @@ console.log("=====================================");
 console.log("=====================================");
 console.log("DAY 05 - part 1", day05.part1());
 console.log("DAY 05 - part 2", day05.part2());
+console.log("=====================================");
+console.log("=====================================");
+console.log("DAY 06 - part 1", day06.part1());
+console.log("DAY 06 - part 2", day06.part2());
